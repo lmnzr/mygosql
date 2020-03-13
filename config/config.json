@@ -1,0 +1,9 @@
+{
+  "appName": "mygosql",
+
+  "timeZone": "Asia/Jakarta",
+
+  "dbMaxConn": 25,
+  "dbMaxIddle": 25,
+  "dbMaxLifeTime": 5
+}
